@@ -6,17 +6,17 @@ margin: 0;
 font-family: "karla", sans-serif;
 box-sizing: border-box;
 }
-
+body{
+  max-width: 550px;
+margin: auto;
+}
 nav{
   display: flex;
   background-color: #672280;
   height: 65px;
   padding: 5px;
   align-items: center;
-  width: 550px;
 }
-
-
 
 .nav-secTitle{
   color: white;
